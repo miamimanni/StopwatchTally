@@ -36,3 +36,10 @@ The purpose of this tool is to track rest time between sets of a workout while t
 6. The "-" button decreases the tally, the "+" button increases it, and the "Reset" button resets the tally to 0.
 
 Enjoy tracking your workout sets and rest times with this simple and effective tool!
+## Promotional Video
+
+Watch the promotional video below to see the tool in action:
+
+[![Stopwatch and Tally Counter](https://img.youtube.com/vi/58MeVQKsZyk/0.jpg)](https://www.youtube.com/watch?v=58MeVQKsZyk)
+
+No this is not serious, just a joke. I really do use the stopwatch, but this is not a real promotion. We had AI make us a video, we threw a couple clips on top of it showing the stopwatch. We just thought it was really funny
